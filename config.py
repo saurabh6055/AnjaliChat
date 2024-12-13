@@ -12,5 +12,4 @@ BOT_TOKEN = getenv("BOT_TOKEN", None)
 STRING1 = getenv("STRING_SESSION", None)
 MONGO_URL = getenv("MONGO_URL", None)
 OWNER_ID = int(getenv("OWNER_ID", "6260080241"))
-SUPPORT_GRP = "ANJALIWORLD"
 OWNER_USERNAME = "AnjaliOwnerBot"
